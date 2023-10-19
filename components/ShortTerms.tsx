@@ -17,7 +17,7 @@ const ShortTerms = () => {
             <span className="text-[#FE862A]"> diabetes </span>
           </h1>
           <p className="mt-8  text-[1.313rem] font-medium  leading-[1.75rem] sm:leading-[2rem]  text-[#525A7E] mx-auto w-2/3 [text-wrap:balance]">
-            Living with diabetes can damage your body and well-being, leaving you feeling helpless with significant short-term effects. It's time to regain control and stop the symptoms from getting worse.
+            Living with diabetes can damage your body and well-being, leaving you feeling helpless with significant short-term effects. It&apos;s time to regain control and stop the symptoms from getting worse.
           </p>
         </div>
 

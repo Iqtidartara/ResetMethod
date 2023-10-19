@@ -12,7 +12,7 @@ const Yourself = () => {
             <span className="text-[#FE862A]">RESET Method</span>
           </h1>
           <p className="text-sm md:text-base lg:text-lg xl:text-lg font-medium leading-7 text-[#161E42] mt-4">
-            Say goodbye to the constant worry, the endless doctor's appointments, the restrictive diets, and the side effects of medication. With the RESET Method, you can regain control of your health and reverse your diabetes. <br /> <br /> This revolutionary approach to health and wellness has already transformed the lives of hundreds of people just like you. It's not just a new way of managing diabetes - it's a whole new way of living. <br /> <br /> With the 'RESET Method' you're not just managing your diabetes, you're eliminating it!
+            Say goodbye to the constant worry, the endless doctor&apos;s appointments, the restrictive diets, and the side effects of medication. With the RESET Method, you can regain control of your health and reverse your diabetes. <br /> <br /> This revolutionary approach to health and wellness has already transformed the lives of hundreds of people just like you. It&apos;s not just a new way of managing diabetes - it&apos;s a whole new way of living. <br /> <br /> With the &apos;RESET Method&apos; you&apos;re not just managing your diabetes, you&apos;re eliminating it!
           </p>
         </div>
         <div className="w-full md:w-[35%] mt-6 md:mt-0">

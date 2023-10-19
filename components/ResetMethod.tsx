@@ -8,13 +8,13 @@ const ResetMethod = () => {
       <div className="max-w-[72rem] mx-auto px-4">
         <div className="text-center">
           <h1 className="text-white text-3xl md:text-5xl font-bold pt-6 md:pt-28">
-            What You'll Discover Inside{" "}
+            What You&apos;ll Discover Inside{" "}
             <span className="text-[#FE862A]">the RESET Method</span>
           </h1>
           <p className="text-lg md:text-xl text-white opacity-40 font-medium leading-7 md:leading-10 text-center">
-            'The RESET METHOD Guide' is your roadmap to a healthier, happier life.
+          &apos;The RESET METHOD Guide&apos; is your roadmap to a healthier, happier life.
             <br />
-            Here's a sneak peek of what's inside:
+            Here&apos;s a sneak peek of what&apos;s inside:
           </p>
         </div>
 

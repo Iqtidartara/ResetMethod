@@ -7,8 +7,8 @@ const Hero = () => {
         </h3>
         <h1 className="text-lg sm:text-xl md:text-2xl lg:text-3xl xl:text-[3.4rem] [text-wrap:balance] text-center text-[#171e3d] font-[700] leading-[2rem] md:leading-[3rem] lg:leading-[4rem] xl:leading-[5rem] tracking-normal mt-2 sm:mt-4 md:mt-8">
           How This Little-Known Secret <br className="hidden md:block" />
-          <span className="text-[#FE862A]">'RESET Method'</span>{" "}
-          Triggers Your Body's <br className="hidden md:block" /> Natural
+          <span className="text-[#FE862A]">&apos;RESET Method&apos;</span>{" "}
+          Triggers Your Body&apos;s <br className="hidden md:block" /> Natural
           Mechanisms to
           <span className="text-[#FE862A]"> Reverse Diabetes</span>
         </h1>
