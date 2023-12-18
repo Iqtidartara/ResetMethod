@@ -11,8 +11,8 @@ const ResetMethod = () => {
             What You&apos;ll Discover Inside{" "}
             <span className="text-[#FE862A]">the RESET Method</span>
           </h1>
-          <p className="text-lg md:text-xl text-white opacity-40 font-medium leading-7 md:leading-10 text-center">
-          &apos;The RESET METHOD Guide&apos; is your roadmap to a healthier, happier life.
+          <p className="text-center md:text-[1.3125rem] text-[1rem] leading-[176.19%] font-[500] text-[#FFF] opacity-[0.7] mt-[2.12rem] ">
+          "The RESET METHOD Guide" is your roadmap to a healthier, happier life.
             <br />
             Here&apos;s a sneak peek of what&apos;s inside:
           </p>
@@ -53,17 +53,17 @@ const ResetMethod = () => {
                 </div>
                 <h1>FREE</h1>
               </div>
-              <Button className="py-[2.12688rem] px-[3.125rem] rounded-lg mt-8 sm:mt-10 bg-[#FE862A]">
-            <div className="flex flex-col items-center gap-2">
-              {/* Use consistent button text size for all screen sizes */}
-              <h4 className="text-[1rem] font-medium">
+              <Button className="flex flex-col justify-center items-center  rounded-md bg-gradient-to-b from-orange-500 to-orange-700 shadow-md md:gap-2 gap-0 md:px-9 px-6 md:py-10 py-8 mt-[2.5rem] md:w-auto w-full">
+          
+              {/* Use consistent button text size for all screen sizes */}  
+              <h4 className="md:text-[1.20444rem] text-[1rem] font-[600]">
                 Get Instant Access For 100% FREE
               </h4>
               {/* Display the same inner text for all screen sizes */}
-              <h4 className="text-[0.75rem] font-normal">
+              <h4 className="md:text-[0.75688rem] text-[.5rem] font-[400]">
                 Download now for $37 Free (for a limited time)
               </h4>
-            </div>
+            
           </Button>
             </div>
           </div>

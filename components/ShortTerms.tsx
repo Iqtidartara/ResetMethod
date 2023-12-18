@@ -11,12 +11,12 @@ const ShortTerms = () => {
   return (
     <div className="p-4 sm:p-6 lg:p-8" style={taraStyle}>
       <div className="max-w-[72rem] mx-auto">
-      <div className="text-center px-4">
-          <h1 className="text-[#20284C] md:text-3xl text-xl font-bold pt-6 md:pt-16">
+      <div className="text-center md:px-4 px-0">
+          <h1 className="text-[#20284C] md:text-[3rem] text-[2rem] font-[700] pt-6 md:pt-16 md:leading-normal leading-[1]">
             Short-Term Effects of{" "}
             <span className="text-[#FE862A]"> diabetes </span>
           </h1>
-          <p className="mt-8  text-[1.313rem] font-medium  leading-[1.75rem] sm:leading-[2rem]  text-[#525A7E] mx-auto w-2/3 [text-wrap:balance]">
+          <p className="mt-8  text-[1.313rem] font-medium  leading-[1.75rem] sm:leading-[2rem]  text-[#525A7E] mx-auto  [text-wrap:balance]">
             Living with diabetes can damage your body and well-being, leaving you feeling helpless with significant short-term effects. It&apos;s time to regain control and stop the symptoms from getting worse.
           </p>
         </div>
@@ -75,11 +75,11 @@ const ShortTerms = () => {
         </div>
 
         <div className="text-center mt-8 sm:mt-16">
-          <h1 className="text-[#20284C] text-3xl font-bold">
+          <h1 className="text-[#20284C] md:text-[3rem] text-[2rem] font-bold">
             Long-Term Effects of{" "}
             <span className="text-[#FE862A]"> diabetes </span>
           </h1>
-          <p className="mt-8 text-[1.313rem] font-medium leading-[1.75rem] sm:leading-[2rem]  text-[#525A7E] mx-auto w-2/3 [text-wrap:balance]">
+          <p className="mt-8 text-[1.313rem] font-medium leading-[1.75rem] sm:leading-[2rem]  text-[#525A7E] mx-auto [text-wrap:balance]">
             Ignoring diabetes can have severe consequences for your long-term health. These potential complications are not only debilitating but can also be life-threatening.
           </p>
         </div>

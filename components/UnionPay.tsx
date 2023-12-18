@@ -9,7 +9,7 @@ const testimonials = [
     name: "Sarah Thompson ",
     rating: 5,
     avatar: "/sarah.png",
-    content: "I can't express how grateful I am for the RESET Method. It's been a truly life-changing journey towards a diabetes-free life. The RESET Method provided me with invaluable insights and strategies, making it a comprehensive solution that I wholeheartedly recommend all",
+    content: "I can't express how grateful I am for the RESET Method. It's been a truly life-changing journey towards a diabetes-free life. The RESET Method provided me with invaluable insights and strategies, making it a comprehensive solution that I wholeheartedly recommend all.",
     heading: "“Life-changing, diabetes-free journey!”",
   },
   {
@@ -54,20 +54,20 @@ const UnionPay = () => {
 
   return (
     <div className="h-auto" style={divStyle}>
-      <div className="max-w-[72rem] mx-auto px-4">
+      <div className="max-w-[72rem] mx-auto px-4 py-12">
         <div className="flex justify-center pt-8 ">
         <h3 className="text-xs sm:text-sm md:text-base lg:text-lg xl:text-xl 2xl:text-2xl leading-tight text-[#EA7216] px-2 sm:px-4 py-1 sm:py-2 md:px-6 md:py-2 font-[500] gradientbg rounded-full hover:bg-[#EA7216] hover:text-white mt-10">
-          Free New eBook Reveals{" "}
+        Our customer review{" "}
         </h3>
         </div>
 
         <div className="text-center mt-4">
-        <h1 className="text-[2.25rem] text-[#20284C] font-bold">
+        <h1 className="md:text-[3rem] text-[2rem] md:leading-normal leading-[1.2] text-[#20284C] font-bold">
   What others say about{" "}
   <span className="text-[#FE862A]"> The RESET Method </span>
 </h1>
 
-          <p className="text-[1rem] sm:text-[1.3125rem] opacity-40 font-medium leading-[1.75rem] sm:leading-[2.3125rem] text-center">
+          <p className="text-[1rem] sm:text-[1.3125rem] opacity-[.7] font-medium leading-[1.75rem] sm:leading-[2.3125rem] text-center">
             Don&apos;t just take my word for it. Here are some real-life case studies
             of people who have successfully <br /> reversed their diabetes using
             the RESET Method.
@@ -75,7 +75,7 @@ const UnionPay = () => {
         </div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-[1.875rem] sm:gap-[4.6875rem] flex-wrap items-start mt-6 sm:mt-14">
-          {testimonials.map((testimonial, index,heading) => (
+          {testimonials.map((testimonial, index) => (
             <div
               key={index}
               className="max-w-[100%] sm:max-w-[33.40275rem] bg-[#FFF] rounded-[1.11113rem] shadow-lg p-[1.125rem] sm:p-[1.66669rem] gap-[1.125rem] items-start"
@@ -84,12 +84,12 @@ const UnionPay = () => {
                 <Image
                   className="w-[2.5rem] md:h-[3rem] sm:w-[2.75rem] h-[2.75rem] rounded-full mr-[0.625rem] sm:mr-4"
                   src={testimonial.avatar}
-                  alt={`Avatar of ${testimonial.name}`}
+                  alt={`Avatar of ${testimonial.name}` }
                   width={40}
                   height={40}
                 />
                 <div className="text-[0.75rem] sm:text-sm">
-                  <p className="text-[#333] sm:text-[#333] leading-[1.25rem] sm:leading-[1.44844rem] text-[0.875rem] sm:text-[0.96563rem] font-normal">
+                  <p className="text-[#333]  text-[0.96563rem] leading-[150%] font-[500]">
                     {testimonial.name}
                   </p>
                   <p>
@@ -97,10 +97,10 @@ const UnionPay = () => {
                   </p>
                 </div>
               </div>
-              <h1 className="text-[#333] sm:text-[#333] text-[1rem] sm:text-[1.125rem] leading-[1.625rem] sm:leading-[1.92319rem] font-medium my-[0.875rem] sm:my-4">
+              <h1 className="md:text-[1.47938rem] text-[1.2rem] font-[500] leading-[130%] tracking-[-0.01481rem] py-3">
                 {testimonial.heading}
               </h1>
-              <p className="text-[#505074] sm:text-[#505074] text-[0.875rem] sm:text-[1rem] leading-[1.5rem] sm:leading-[1.80556rem] font-normal">
+              <p className="text-[#505074] md:text-[1.04875rem] text-[1rem] font-[400] leading-[172.163%]">
                 {testimonial.content}
               </p>
             </div>
@@ -108,18 +108,18 @@ const UnionPay = () => {
         </div>
 
         <div className="flex justify-center">
-        <Button className="py-[2.12688rem] px-[3.125rem] rounded-lg mt-8 sm:mt-10 bg-[#FE862A] ">
-            <div className="flex flex-col items-center gap-2">
-              {/* Use consistent button text size for all screen sizes */}
-              <h4 className="text-[1rem] font-medium">
-                Get Instant Access For 100% FREE
-              </h4>
-              {/* Display the same inner text for all screen sizes */}
-              <h4 className="text-[0.75rem] font-normal">
-                Download now for $37 Free (for a limited time)
-              </h4>
-            </div>
-          </Button>
+        <Button className="flex flex-col justify-center items-center  rounded-md bg-gradient-to-b from-orange-500 to-orange-700 shadow-md md:gap-2 gap-0 md:px-9 px-6 md:py-10 py-8 mt-[2.5rem] md:w-auto w-full">
+          
+          {/* Use consistent button text size for all screen sizes */}  
+          <h4 className="md:text-[1.60444rem] text-[1rem] font-[600]">
+            Get Instant Access For 100% FREE
+          </h4>
+          {/* Display the same inner text for all screen sizes */}
+          <h4 className="md:text-[0.75688rem] text-[.5rem] font-[400]">
+            Download now for $37 Free (for a limited time)
+          </h4>
+        
+      </Button>
         </div>
       </div>
     </div>
