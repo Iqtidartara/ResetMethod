@@ -12,7 +12,7 @@ const ResetMethod = () => {
             <span className="text-[#FE862A]">the RESET Method</span>
           </h1>
           <p className="text-center md:text-[1.3125rem] text-[1rem] leading-[176.19%] font-[500] text-[#FFF] opacity-[0.7] mt-[2.12rem] ">
-          "The RESET METHOD Guide" is your roadmap to a healthier, happier life.
+          &#34;The RESET METHOD Guide&#34; is your roadmap to a healthier, happier life.
             <br />
             Here&apos;s a sneak peek of what&apos;s inside:
           </p>
