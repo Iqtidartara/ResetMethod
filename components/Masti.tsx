@@ -15,7 +15,7 @@ const Masti = () => {
       <main className='max-w-[72rem] mx-auto px-4 md:py-20 py-8'>
     <div className=' py-12 px-4' style={divStyle}>
       <div className='text-center flex justify-center items-center flex-col gap-4 md:gap-8'>
-        <h1 className='text-[#FFF] text-[1.5rem] md:text-[1.875rem] md:leading-[3.625rem] leading-normal font-normal mt-4 md:mt-8'>
+        <h1 className='text-[#FFF] text-[2rem] md:text-[3rem] md:leading-[3.625rem] leading-[1.1] font-[700] mt-4 md:mt-8'>
           What are you waiting For
         </h1>
         <p className='text-[#FFF] text-[0.9rem] md:text-[1.125rem] font-normal md:leading-[2.1875rem] leading-normal'>

@@ -16,9 +16,9 @@ const Introduction = () => {
         </div>
         <div className='flex flex-col items-start justify-start md:w-1/2 w-full'>
 
-<h1 className='text-[#2A3256] md:text-[2rem] text-[2rem] md:leading-[1.4] leading-[1.3] font-[700] capitalize'>Introducing the <span className='text-[#FE862A]'>RESET Method</span> </h1>
+<h1 className='text-[#2A3256] md:text-[2rem] text-[2rem] md:leading-[1.4] leading-[1.1] font-[700] capitalize'>Introducing the <span className='text-[#FE862A]'>RESET Method</span> </h1>
 
-<p className='text-[1.25rem] md:leading-[176.19%] leading-normal font-[500] text-[#0C1438] mt-4 md:mt-[2.199rem]'>The RESET Method is a game-changer. It&apos;s a 5-step formula that helps you understand the cause of diabetes, identify the events that cause diabetes, fix the triggers in your body that cause diabetes, reverse diabetes through dietary and exercise changes, and make lifestyle changes to prevent relapse.
+<p className='text-[1.25rem] md:leading-[176.19%] leading-normal font-[400] text-[#0C1438] mt-4 md:mt-[2.199rem]'>The RESET Method is a game-changer. It&apos;s a 5-step formula that helps you understand the cause of diabetes, identify the events that cause diabetes, fix the triggers in your body that cause diabetes, reverse diabetes through dietary and exercise changes, and make lifestyle changes to prevent relapse.
 <br/><br className='md:block hidden'/>
 The RESET Method is different because it&apos;s not about managing diabetes - it&apos;s about reversing it. It&apos;s about helping your body heal itself, not just treating the symptoms.
 <br/><br className='md:block hidden'/>

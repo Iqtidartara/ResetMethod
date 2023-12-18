@@ -16,10 +16,10 @@ export default function AccordionDemo() {
           value="item-1"
           className="shadow-lg rounded-lg p-4 sm:p-6 md:p-8"
         >
-          <AccordionTrigger className="text-[#020A2E] opacity-[0.7] font-[700] md:text-[1.3125rem] text-[1.2rem] md:leading-[176.19%] leading-[1.2]">
+          <AccordionTrigger className="text-[#020A2E] opacity-[0.7] font-[600] md:text-[1.3125rem] text-[1rem] md:leading-[176.19%] leading-[1.1]">
             Is the RESET Method just another fad or gimmick?
           </AccordionTrigger>
-          <AccordionContent className="text-[#0C1438] md:leading-[185%] leading-[1.2] font-[500] text-[1rem] md:text-[1.25rem] opacity-[0.7]">
+          <AccordionContent className="text-[#0C1438] md:leading-[185%] leading-[1.1] font-[400] text-[.9rem] md:text-[1.25rem] opacity-[0.7]">
             Absolutely not! The RESET Method is firmly grounded in scientific
             research and has demonstrated its effectiveness for thousands of
             individuals.
@@ -29,11 +29,11 @@ export default function AccordionDemo() {
           value="item-2"
           className="shadow-lg rounded-lg p-4 sm:p-6 md:p-8"
         >
-          <AccordionTrigger className="text-[#020A2E] opacity-[0.7] font-[700] md:text-[1.3125rem] text-[1.2rem] md:leading-[176.19%] leading-[1.2]">
+          <AccordionTrigger className="text-[#020A2E] opacity-[0.7] font-[600] md:text-[1.3125rem] text-[1rem] md:leading-[176.19%] leading-[1.1]">
             I&apos;ve tried various methods before, Why should I believe this will be
             different?
           </AccordionTrigger>
-          <AccordionContent className="text-[#0C1438]  md:leading-[185%] leading-[1.2] font-[500] text-[1rem] md:text-[1.25rem] opacity-[0.7]">
+          <AccordionContent className="text-[#0C1438]  md:leading-[185%] leading-[1.1] font-[400] text-[.9rem] md:text-[1.25rem] opacity-[0.7]">
             Absolutely not! The RESET Method is firmly grounded in scientific
             research and has demonstrated its effectiveness for thousands of
             individuals.
@@ -43,11 +43,11 @@ export default function AccordionDemo() {
           value="item-3"
           className="shadow-lg rounded-lg p-4 sm:p-6 md:p-8"
         >
-          <AccordionTrigger  className="text-[#020A2E] opacity-[0.7] font-[700] md:text-[1.3125rem] text-[1.2rem] md:leading-[176.19%] leading-[1.2]">
+          <AccordionTrigger  className="text-[#020A2E] opacity-[0.7] font-[600] md:text-[1.3125rem] text-[1rem] md:leading-[176.19%] leading-[1.1]">
             Will I have to give up my favorite foods if I follow the RESET
             Method?
           </AccordionTrigger>
-          <AccordionContent className="text-[#0C1438]  md:leading-[185%] leading-[1.2] font-[500] text-[1rem] md:text-[1.25rem] opacity-[0.7]">
+          <AccordionContent className="text-[#0C1438]  md:leading-[185%] leading-[1.1] font-[400] text-[.9rem] md:text-[1.25rem] opacity-[0.7]">
             Absolutely not! The RESET Method is firmly grounded in scientific
             research and has demonstrated its effectiveness for thousands of
             individuals.
@@ -57,10 +57,10 @@ export default function AccordionDemo() {
           value="item-4"
           className="shadow-lg rounded-lg p-4 sm:p-6 md:p-8"
         >
-          <AccordionTrigger  className="text-[#020A2E] opacity-[0.7] font-[700] md:text-[1.3125rem] text-[1.2rem] md:leading-[176.19%] leading-[1.2]">
+          <AccordionTrigger  className="text-[#020A2E] opacity-[0.7] font-[600] md:text-[1.3125rem] text-[1rem] md:leading-[176.19%] leading-[1.1]">
             What if I don&apos;t have enough time to follow the program?
           </AccordionTrigger>
-          <AccordionContent className="text-[#0C1438]  md:leading-[185%] leading-[1.2] font-[500] text-[1rem] md:text-[1.25rem] opacity-[0.7]">
+          <AccordionContent className="text-[#0C1438]  md:leading-[185%] leading-[1.1] font-[400] text-[.9rem] md:text-[1.25rem] opacity-[0.7]">
             Absolutely not! The RESET Method is firmly grounded in scientific
             research and has demonstrated its effectiveness for thousands of
             individuals.

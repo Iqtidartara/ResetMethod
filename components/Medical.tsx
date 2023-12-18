@@ -6,7 +6,7 @@ const Medical = () => {
     <div className="w-full max-w-[72rem] mx-auto mt-10  ">
       <div className="flex flex-col sm:flex-row justify-between items-center px-4">
         <div className="sm:w-[60%] text-center sm:text-left mb-8 sm:mb-0">
-        <p className="md:text-[1.3125rem] text-[1rem] font-[500] md:leading-[176.19%] leading-normal text-[#161E42]">
+        <p className="md:text-[1.3125rem] text-[1rem] font-[400] md:leading-[176.19%] leading-normal text-[#161E42]">
   Say goodbye to the constant worry, the endless doctor&apos;s appointments,
   the restrictive diets, and the side effects of medication. With the
   RESET Method, you can regain control of your health and reverse your
