@@ -11,7 +11,7 @@ const poppins = Poppins({
 
 export const metadata: Metadata = {
  icons: '/favicon.png',
-  title: 'Restet from Diabetes',
+  title: 'RESET FROM DIABETES',
   description: 'ResetMethod for Diabeteis patients',
 }
 
