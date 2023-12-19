@@ -108,7 +108,7 @@ const UnionPay = () => {
         </div>
 
         <div className="flex justify-center">
-        <Button className="flex flex-col justify-center items-center  rounded-md bg-gradient-to-b from-orange-500 to-orange-700 shadow-md md:gap-2 gap-0 md:px-9 px-6 md:py-10 py-8 mt-[2.5rem] md:w-auto w-full">
+        <Button className="flex flex-col justify-center items-center  rounded-md bg-gradient-to-b from-orange-500 to-orange-700 shadow-md md:gap-2 gap-0 md:px-9 px-4 md:py-10 py-8 mt-[2.5rem] md:w-auto w-full">
           
           {/* Use consistent button text size for all screen sizes */}  
           <h4 className="md:text-[1.60444rem] text-[1rem] font-[600]">
