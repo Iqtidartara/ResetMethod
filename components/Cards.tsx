@@ -29,7 +29,7 @@ const Cards = () => {
         <div className="w-[0.05175rem] h-[10.91469rem] bg-[#000] opacity-30"></div>
         <div className="">
           <Image src="/icon (8).png" alt="img1" width={50} height={30} />
-          <h1 className="text-[0.93113rem] font-bold mt-[1.5rem]">Save Time on Doctor’s Visits</h1>
+          <h1 className="text-[0.93113rem] font-bold mt-[1.5rem]">Save Time on Doctor&apos;s Visits</h1>
           <p className="text-[0.8275rem] font-medium leading-[1.34494rem] mt-[1.2rem]">
             Cut down the endless appointments & check-ups, giving you more time
             for what you love.

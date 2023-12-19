@@ -62,12 +62,12 @@ const UnionPay = () => {
         </div>
 
         <div className="text-center mt-4">
-        <h1 className="md:text-[3rem] text-[2rem] md:leading-normal leading-[1.1] text-[#20284C] font-bold">
+        <h1 className="md:text-[3rem] text-[2rem] md:leading-normal leading-[1.2] text-[#20284C] font-bold">
   What others say about{" "}
   <span className="text-[#FE862A]"> The RESET Method </span>
 </h1>
 
-          <p className="text-[1rem] sm:text-[1.3125rem] opacity-[.7] font-[400] leading-[1.1] sm:leading-[2.3125rem] text-center">
+          <p className="text-[1rem] sm:text-[1.3125rem] opacity-[.7] font-[400] leading-[1.2] sm:leading-[2.3125rem] text-center mt-3 md:mt-6">
             Don&apos;t just take my word for it. Here are some real-life case studies
             of people who have successfully <br /> reversed their diabetes using
             the RESET Method.

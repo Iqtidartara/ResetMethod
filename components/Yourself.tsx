@@ -10,7 +10,7 @@ const Yourself = () => {
 <div className='flex flex-col md:flex-row items-center justify-start mt-[2.23rem] md:gap-[51px] gap-3'>
 
 <div className='md:w-1/2 w-full'>
-  <p className='text-[#0C1438] md:text-[1.3125rem] text-[1rem] font-[500] md:leading-[166.19%] leading-normal opacity-[0.8]'>
+  <p className='text-[#0C1438] md:text-[1.3125rem] text-[1rem] font-[400] md:leading-[166.19%] leading-[1.2] opacity-[0.8]'>
   Why waste months struggling along, trying to figure things out for yourself? 
 <br/><br className='md:block hidden'/>
 You can save this time and get a much better result when you get our expert advice and use our FREE blueprint to reverse diabetes. It&apos;s like a shortcut which gives you several main benefits.

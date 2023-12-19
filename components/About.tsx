@@ -6,7 +6,7 @@ const About = () => {
     <div className="w-full max-w-[72rem] mx-auto mt-10 mb-10">
       <div className="flex flex-col md:flex-row justify-between px-4">
         <div className="w-full md:w-[50%] mt-12 text-center md:text-left"> {/* Added text-center class for centering content */}
-          <h1 className="font-bold md:text-[3rem] text-[2rem]  capitalize md:mb-0 leading-[1.1]">
+          <h1 className="font-bold md:text-[3rem] text-[2rem]  capitalize md:mb-0 leading-[1.2]">
             Why most people <span className="text-[#FE862A]">fail</span> to reverse{" "}
             <span className="text-[#FE862A]">diabetes</span>
           </h1>
